@@ -18,7 +18,7 @@ namespace JenkinsFreeStyle
         }
         static void PostToPowerBI(string PostUri)
         {
-            while (times < 20)
+            while (times < 50)
             {
                 try
                 {
